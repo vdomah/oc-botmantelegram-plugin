@@ -1,0 +1,6 @@
+plugin:
+    name: 'vdomah.botmantelegram::lang.plugin.name'
+    description: 'vdomah.botmantelegram::lang.plugin.description'
+    author: Vdomah
+    icon: oc-icon-paper-plane
+    homepage: ''
